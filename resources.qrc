@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data.xml</file>
+        <file>icon.svg</file>
+    </qresource>
+</RCC>

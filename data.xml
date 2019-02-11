@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <BeautyItem tipo="Profumo">
+        <marca>Armani</marca>
+        <nome>Acqua di giò</nome>
+        <odore>Acqua</odore>
+        <capacita>50.000000</capacita>
+        <consumo>1.000000</consumo>
+    </BeautyItem>
+    <BeautyItem tipo="Pulizia">
+        <marca>Garnier</marca>
+        <nome>Anti forfora</nome>
+        <parteDelCorpo>Capelli</parteDelCorpo>
+        <capacita>50.000000</capacita>
+        <consumo>5.000000</consumo>
+    </BeautyItem>
+    <BeautyItem tipo="MakeUp">
+        <marca>Sephora</marca>
+        <nome>Mascara</nome>
+        <colore>Nero</colore>
+        <capacita>10.000000</capacita>
+        <consumo>0.100000</consumo>
+    </BeautyItem>
+    <BeautyItem tipo="Strumento">
+        <marca>Ovs</marca>
+        <nome>Pettine</nome>
+        <parteDelCorpo>Ovunque</parteDelCorpo>
+        <materiale>Plastica</materiale>
+        <contatore>6</contatore>
+    </BeautyItem>
+    <BeautyItem tipo="MakeUp">
+        <marca>KIKO</marca>
+        <nome>Terra</nome>
+        <colore>Sabbia</colore>
+        <capacita>20.000000</capacita>
+        <consumo>0.100000</consumo>
+    </BeautyItem>
+</root>
